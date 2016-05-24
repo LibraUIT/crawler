@@ -15,5 +15,5 @@ At my `data.rake` file . I have `xkcn` method crawler data from `http://xkcn.inf
 
 You can write your function using with `get_doc` method.
 
-All data wil export with `out.txt` file at root folder of your project.
+All data wil export with `images.txt` file at root folder of your project.
 
