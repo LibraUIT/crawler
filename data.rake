@@ -40,7 +40,8 @@ namespace :data do
     end
     out_file.puts(text)
     out_file.close
-    puts "#{total} images download has been successful. Thanks !"
+    puts "#{total} images download has been successful."
+    puts "All images save in the #{folder} folder. Thanks"
   end
 
   def get_name(img_url)
