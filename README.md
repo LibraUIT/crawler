@@ -1,5 +1,5 @@
 # crawler
-#A platform crawler data from other website using ruby on rails
+#A platform auto save as images from other website using ruby on rails
 
 #How to use it ?
 
